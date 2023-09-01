@@ -2,6 +2,7 @@
 This is a crash course in classical and quantum ML at the  3rd Summer School and Internship Programme at CTP BUE, Egypt. 
 
 ## Link to You Tube videos: 
+https://www.youtube.com/watch?v=Voaq3Fz6dc0&list=PLA4uYJ1jShPmbTydLHUOF4PBJdUs8DNvq&index=1
 
 Folder `Codes` contains all the python notebook that used to create the matirals in the lectures.
 
