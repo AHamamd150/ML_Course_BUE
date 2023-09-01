@@ -1,6 +1,8 @@
 # ML crash course at BUE
 This is a crash course in classical and quantum ML at the  3rd Summer School and Internship Programme at CTP BUE, Egypt. 
 
+## Link to You Tube videos: 
+
 Folder `Codes` contains all the python notebook that used to create the matirals in the lectures.
 
 Folder `Animation` contains the animation used in the slides and lost when it converted to pdf.
